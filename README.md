@@ -57,12 +57,10 @@ if __name__ == "__main__":
             "anime(Bruh)",
             "coding",
             "python",
-            "hacking?",
-            "crypto[(dam so many ded ppl lmao) THIS WAS A JOKE BTWW!!!]",
         ],
         currently_learning=[
         "python",
-        "PROBABLY STARTING C++"
+        "PROBABLY STARTING C++('lmao no')"
         ],
         age=13,
         location="Israel",
