@@ -52,15 +52,13 @@ class GitHub_user:
 
 if __name__ == "__main__":
     heylol = GitHub_user(
-        Github_username="heyIoI",
+        Github_username="Lumie",
         interests=[
-            "anime(Bruh)",
             "coding",
             "python",
         ],
         currently_learning=[
         "python",
-        "PROBABLY STARTING C++('lmao no')"
         ],
         age=13,
         location="Israel",
