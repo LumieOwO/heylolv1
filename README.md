@@ -18,7 +18,7 @@
  <a target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="50" /></a>
     </td>
     <td width="400" align="center">
-      <a target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" />Vscode</a>
+      <a target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" /></a>
     </td>
   </tr>
 </table>
