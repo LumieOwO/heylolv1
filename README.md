@@ -22,4 +22,4 @@
     </td>
   </tr>
 </table>
-<iframe src="https://darkkhakipointedplot.hxhdjd1.repl.co/profile/4546580097" ></iframe>
+<img src="https://darkkhakipointedplot.hxhdjd1.repl.co/profile/4546580097" alt=":bigbootylatinas" /></p>
