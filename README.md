@@ -22,4 +22,3 @@
     </td>
   </tr>
 </table>
-![alt text](https://darkkhakipointedplot.hxhdjd1.repl.co/profile/4546580097)
