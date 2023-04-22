@@ -22,4 +22,4 @@
     </td>
   </tr>
 </table>
-[![Discord Presence](https://unawarefrigidadministrators.hxhdjd1.repl.co/profile/4546580097)](https://discord.com/users/:id)
+[![Discord Presence](https://unawarefrigidadministrators.hxhdjd1.repl.co/profile/4546580097)]
