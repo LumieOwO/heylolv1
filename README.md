@@ -22,4 +22,4 @@
     </td>
   </tr>
 </table>
-<a target="blank"><img src="https://unawarefrigidadministrators.hxhdjd1.repl.co/profile/4546580097" /></a>
+<a target="blank"><img src="https://unawarefrigidadministrators.hxhdjd1.repl.co/profile/4546580097" width="550" /></a>
